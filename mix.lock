@@ -1,0 +1,8 @@
+[ "chicagoboss": {:git,"https://github.com/evanmiller/ChicagoBoss.git","d915a0d7f06c77faf1927d77d61f797f953cbcc3",[]},
+  "cowboy": {:git,"https://github.com/extend/cowboy.git","1fc69977da8f57d5d3fa48cd68280aa2c0b1d78b",[]},
+  "dynamo": {:git,"https://github.com/elixir-lang/dynamo.git","819267480cda92907c2e8d84db397de39fbbee6a",[]},
+  "erlv8": {:git,"https://github.com/rpmessner/erlv8.git","d8162f4cabf902fbe97e6d4aa05b1de28cc1e7cd",[]},
+  "mimetypes": {:git,"https://github.com/spawngrid/mimetypes.git","507823a0e6a5f6654c61945152a7ba88bd55ad0e",[]},
+  "proper": {:git,"https://github.com/manopapad/proper.git","aa6b088607a08b82ef765dfdfcb6f20f0735915f",[]},
+  "proper_stdlib": {:git,"https://github.com/spawngrid/proper_stdlib.git","2521549b9c65aac81deb40e4b38914f837e21b5a",[]},
+  "ranch": {:git,"https://github.com/extend/ranch.git","53be20d25f94095ec9b44c5bd03cf158dd5a6820",[]} ]
